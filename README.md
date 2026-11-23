@@ -1,5 +1,7 @@
 # Secret Sniper
 
+[![CI](https://github.com/gravion-ux/secret-sniper/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/secret-sniper/actions/workflows/ci.yml)
+
 > Leak detection for credentials — static analysis, entropy analysis, **single-site scanning**, **bulk URL-list scanning** and **live credential verification**.
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
