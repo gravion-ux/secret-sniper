@@ -1,6 +1,10 @@
+<p align="center"><img src="assets/banner.svg" alt="secret-sniper banner" width="100%"/></p>
+
 # Secret Sniper
 
-[![CI](https://github.com/gravion-ux/secret-sniper/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/secret-sniper/actions/workflows/ci.yml)
+[![CI](https://github.com/gravion-ux/secret-sniper/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/secret-sniper/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**Leak detection for credentials — static analysis, entropy analysis, single-site scanning, bulk URL-list scanning and live credential verification.**
 
 > Leak detection for credentials — static analysis, entropy analysis, **single-site scanning**, **bulk URL-list scanning** and **live credential verification**.
 
